@@ -24,13 +24,10 @@ const Navbar = () => {
 
     const navigate = useNavigate();
     let btn_name;
-    if (window.location.pathname == "/") {
-        btn_name = "Login"
-    }
-    else if (window.location.pathname == "/login") {
+    if (window.location.pathname == "/login") {
         btn_name = "SignUp"
     }
-    else if (window.location.pathname == "/signup") {
+    else {
         btn_name = "Login"
     }
 

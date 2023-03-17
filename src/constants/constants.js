@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:8080"
+export const BASE_URL = "https://3x5yww-8080.csb.app"

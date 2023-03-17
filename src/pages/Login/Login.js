@@ -25,7 +25,7 @@ const Login = () => {
             <div className='login'>
                 <div className='login-form'>
                     <div className='login-username'>
-                        <label style={{ fontWeight: "bold" }}>Username</label><br />
+                        <label style={{ fontWeight: "bold" }}>Phone Number/Username</label><br />
                         <input onChange={(e) => setUsername(e.target.value)} type="text" />
                     </div>
                     <div className='login-username'>
