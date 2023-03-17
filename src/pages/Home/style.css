@@ -1,0 +1,21 @@
+.home{
+    height: calc(100vh - 70px);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    /* align-items: center; */
+    background-size: cover;
+    
+}
+
+.items-page-btn{
+   width: max-content;
+    background-color: red;
+    padding: 20px 60px;
+    border-radius: 20px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    margin: 20px 10px;
+}

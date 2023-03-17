@@ -1,0 +1,25 @@
+.navbar{
+    height: 70px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 0 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.6);
+}
+.brand-name{
+    cursor: pointer;
+    font-size: large;
+    font-weight: bold;
+}
+.login-btn{
+    border: none;
+    border-radius: 10px;
+    font-size: 1rem;
+    padding: 5px 15px;
+    background-color: royalblue;
+    cursor: pointer;
+    color: white;
+}
+.icons{
+    display: flex;
+}
