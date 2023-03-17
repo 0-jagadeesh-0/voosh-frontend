@@ -5,3 +5,6 @@
 2. <code>npm install</code> to install all the required dependencies
 
 3. <code>npm start</code> to start the application
+
+## Deployed Link
+### [Website Link](https://voosh-food-service.netlify.app/)
